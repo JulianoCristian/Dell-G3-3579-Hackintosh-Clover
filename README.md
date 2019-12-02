@@ -1,6 +1,8 @@
 # Dell-G3-3579-Hackintosh-Clover
 My Clover EFI folder backup
 
+Please use my OpenCore.
+This Clover is not working.
 **My OpenCore EFI here** [Dell-G3-3579-Hackintosh-OpenCore](https://github.com/CerteKim/Dell-G3-3579-Hackintosh-OpenCore)
 
 ## Hardware Configuration
@@ -11,6 +13,8 @@ My Clover EFI folder backup
 * ALC236 
 * Intel 600P
 * Thunderbolt
+
+---
 
 ## Whats Working?
 * 10.13.6 ~ 10.14.x Boot
